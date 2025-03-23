@@ -65,5 +65,5 @@ With males holding a higher balance, banks can introduce investment plans, finan
 
 ![Screenshot 2025-03-23 154837](https://github.com/user-attachments/assets/657b7f0f-ad0f-493e-aa93-f4c3916ad540)
 
-![Screenshot 2025-03-23 154837](https://github.com/user-attachments/assets/d341806e-c4da-4e4f-b5b6-b9cd25f2cfeb)
+
 
