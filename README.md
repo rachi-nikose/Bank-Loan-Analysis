@@ -1,7 +1,7 @@
 # Bank-Loan-Analysis
 Crafted and executed a Bank Loan Analysis project merging SQL, Excel, MSSQL. Generated comprehensive insights through Power BI dashboards, integrating data analysis from diverse platforms for informed decision-making and strategic planning
 
-#Problem Statement:
+## Problem Statement:
 The bank aims to identify its most valuable customer segment by analyzing financial and demographic attributes such as age, gender, job classification, and region. This analysis will help in developing targeted marketing strategies, personalized financial products, and improved customer retention plans.
 
 #Data Collection:
